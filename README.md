@@ -1,3 +1,3 @@
 # Epic React Exercises
 
-Exercises from the Epic react course by kent c. Dodds.
+Exercises from the Epic react course by Kent C. Dodds.
